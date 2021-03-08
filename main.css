@@ -1,0 +1,43 @@
+body
+{
+background-color: aqua;
+
+
+}
+
+form
+{
+    text-align: center;
+    text-decoration: brown;
+   
+   border-style: solid;
+   border-color: coral;
+   width: 25%;
+   margin: 40%;
+   margin-top: 8%;
+}
+
+#first
+{
+    text-align: center;
+border-style: solid;
+border-color: coral;
+width: 10%;
+margin-left: 90%;
+
+}
+
+#image1
+{
+    border-style: solid;
+    size: 5%;
+    margin-left: 10%;
+}
+
+#image2
+{
+  size: 5%;
+    margin-left: 10%;
+
+
+}
